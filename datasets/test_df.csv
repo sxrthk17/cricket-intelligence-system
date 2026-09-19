@@ -1,0 +1,29 @@
+batsman,bowler,ball,batsman_runs,wide_runs,noball_runs,bye_runs,legbye_runs,dismissal_kind,player_dismissed
+V Kohli,JJ Bumrah,0.1,0,0,0,0,0,No_Dismissal,
+V Kohli,JJ Bumrah,0.2,1,0,0,0,0,No_Dismissal,
+V Kohli,JJ Bumrah,0.3,2,0,0,0,0,No_Dismissal,
+V Kohli,JJ Bumrah,0.4,3,0,0,0,0,No_Dismissal,
+V Kohli,JJ Bumrah,0.5,4,0,0,0,0,caught,V Kohli
+RG Sharma,SP Narine,0.1,4,0,0,0,0,No_Dismissal,
+RG Sharma,SP Narine,0.2,6,0,0,0,0,No_Dismissal,
+RG Sharma,SP Narine,0.3,4,0,0,0,0,No_Dismissal,
+RG Sharma,SP Narine,0.4,6,0,0,0,0,bowled,RG Sharma
+MS Dhoni,Rashid Khan,1.1,4,0,0,0,0,No_Dismissal,
+MS Dhoni,Rashid Khan,1.2,6,0,0,0,0,No_Dismissal,
+MS Dhoni,Rashid Khan,1.3,6,0,0,0,0,lbw,MS Dhoni
+KL Rahul,JJ Bumrah,2.1,0,0,0,2,0,No_Dismissal,
+KL Rahul,JJ Bumrah,2.2,0,0,0,0,1,No_Dismissal,
+KL Rahul,SP Narine,2.3,3,0,0,0,0,No_Dismissal,
+KL Rahul,SP Narine,2.4,0,0,0,0,0,No_Dismissal,
+S Dhawan,Rashid Khan,3.1,0,0,0,0,0,No_Dismissal,
+S Dhawan,Rashid Khan,3.2,0,0,0,0,0,stumped,S Dhawan
+S Dhawan,Rashid Khan,3.3,0,0,0,0,0,No_Dismissal,
+R Ashwin,SP Narine,4.1,1,0,0,0,0,No_Dismissal,
+R Ashwin,SP Narine,4.2,2,0,0,0,0,caught and bowled,R Ashwin
+V Kohli,JJ Bumrah,0.6,0,1,0,0,0,No_Dismissal,
+V Kohli,JJ Bumrah,0.7,1,0,1,0,0,run out,S Dhawan
+MS Dhoni,Rashid Khan,1.4,0,0,0,0,0,hit wicket,MS Dhoni
+MS Dhoni,Rashid Khan,1.5,0,0,0,0,0,obstructing the field,MS Dhoni
+RG Sharma,JJ Bumrah,0.8,0,0,0,0,0,No_Dismissal,
+RG Sharma,JJ Bumrah,0.9,0,0,0,0,0,No_Dismissal,
+RG Sharma,SP Narine,4.3,1,0,0,0,0,retired hurt,RG Sharma
